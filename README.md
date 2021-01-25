@@ -1,0 +1,1 @@
+# redis_auto_install
